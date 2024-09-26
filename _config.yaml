@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Computational Cognitive Science Lab
 subtitle: 
 description: 
 header: images/background.jpg
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: contact@CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  orcid: 0000-0003-4153-4167
+  google-scholar: E6P0di0AAAAJ
+  github: https://github.com/CompCogMod/
+  twitter: kachergis
+  youtube: youtube
 
 ### jekyll settings
 
