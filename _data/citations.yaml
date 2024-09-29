@@ -1,174 +1,361 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1111/lang.12531
+  title: "Plurality Is a Good Start, but It's Time for Unification: A Commentary on\
+    \ \u201CComputational Modeling of Bilingual Language Learning: Current Models\
+    \ and Future Directions\u201D"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - George Kachergis
+  - Alvin Wei Ming Tan
+  - Michael C. Frank
+  publisher: Language Learning
+  date: '2022-11-21'
+  link: https://doi.org/g577qc
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1109/TCDS.2022.3176459
+  title: Behavioral Optimization in a Robotic Serial Reaching Task Using Predictive
+    Information
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Deniz Sen
+  - Roy De Kleijn
+  - George Kachergis
+  publisher: IEEE Transactions on Cognitive and Developmental Systems
+  date: '2023-09-01'
+  link: https://doi.org/g577qd
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.31234/osf.io/5g2jb
+  title: Evaluating the feasibility of an automated classifier for target-child-directed
+    speech from LENA recordings
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Janet Y Bang
+  - George Kachergis
+  - Adriana Weisleder
+  - Virginia A. Marchman
+  publisher: Center for Open Science
+  date: '2022-12-21'
+  link: https://doi.org/g577qh
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1037/dev0001414
+  title: "A longitudinal analysis of the social information in infants\u2019 naturalistic\
+    \ visual experience using automated detections."
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Bria L. Long
+  - George Kachergis
+  - Ketan Agrawal
+  - Michael C. Frank
+  publisher: Developmental Psychology
+  date: '2022-12-01'
+  link: https://doi.org/g577qj
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.31234/osf.io/238jk
+  title: "The BabyView Camera: Designing a New Head-mounted Camera to Capture Children\u2019\
+    s Early Social and Visual Environment"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Bria Long
+  - Sarah Goodin
+  - George Kachergis
+  - Virginia A. Marchman
+  - Samaher Radwan
+  - Robert Sparks
+  - Violet Xiang
+  - Chengxu Zhuang
+  - Oliver Hsu
+  - Brett Newman
+  - Daniel Yamins
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2022-11-02'
+  link: https://doi.org/g577qk
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1044/2022_JSLHR-21-00372
+  title: Online Computerized Adaptive Tests of Children's Vocabulary Development in
+    English and Mexican Spanish
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - George Kachergis
+  - Virginia A. Marchman
+  - Philip S. Dale
+  - Jessica Mankewitz
+  - Michael C. Frank
+  publisher: Journal of Speech, Language, and Hearing Research
+  date: '2022-06-08'
+  link: https://doi.org/g577qn
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.31234/osf.io/4rywf
+  title: Estimating demographic bias on tests of children's early vocabulary
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - George Kachergis
+  - Nathan Francis
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2022-05-27'
+  link: https://doi.org/g577qp
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/09637214211057836
+  title: "Toward a \u201CStandard Model\u201D of Early Language Learning"
+  authors:
+  - George Kachergis
+  - Virginia A. Marchman
+  - Michael C. Frank
+  publisher: Current Directions in Psychological Science
+  date: '2021-12-23'
+  link: https://doi.org/gnzbsx
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/aex7v
+  title: Many babies 3 rule learning - Stage 1 Registered Report - In principle acceptance
+  authors:
+  - Ingmar Visser
+  - Andreea Geambasu
+  - Heidi A Baumgartner
+  - Christina Bergmann
+  - Krista Byers-Heinlein
+  - Christian Alexander Carstensen
+  - Frances L. Doyle
+  - Judit Gervain
+  - Erin Hannon
+  - Naomi Havron
+  - Scott Johnson
+  - George Kachergis
+  - Melissa Kline Struhl
+  - Jessica Elizabeth Kosie
+  - Casey Lew-Williams
+  - Julien Mayor
+  - David Moreau
+  - Jutta L. Mueller
+  - Maartje Eusebia Josefa Raijmakers
+  - Mohinish Shukla
+  - Angeline Tsui
+  - Sylvain Sirois
+  - Gert Westermann
+  - Melanie Soderstrom
+  - Clara Levelt
+  publisher: Center for Open Science
+  date: '2021-07-08'
+  link: https://doi.org/g577qq
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/5ftsu
+  title: Online Computerized Adaptive Tests (CAT) of Children's Vocabulary Development
+    in English and Mexican Spanish
+  authors:
+  - George Kachergis
+  - Virginia A. Marchman
+  - Philip Dale
+  - Jess Mankewitz
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-07-06'
+  link: https://doi.org/g577qs
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/xha3c
+  title: "Predicting children\u2019s and adults\u2019 preferences in physical interactions\
+    \ via physics simulation"
+  authors:
+  - George Kachergis
+  - Samaher Radwan
+  - Bria Long
+  - Judith Fan
+  - Michael Lingelbach
+  - Daniel M. Bear
+  - Daniel Yamins
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-06-17'
+  link: https://doi.org/g577qt
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/nv47t
+  title: Characterizing the object categories two children see and interact with in
+    a dense dataset of naturalistic visual experience
+  authors:
+  - Bria Long
+  - George Kachergis
+  - Naiti Sanjiv Bhatt
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-05-27'
+  link: https://doi.org/g577qv
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/ep693
+  title: 'Peekbank: Exploring children''s word recognition through an open, large-scale
+    repository for developmental eye-tracking data'
+  authors:
+  - Martin Zettersten
+  - Claire Bergey
+  - Naiti Sanjiv Bhatt
+  - Veronica Boyce
+  - Mika Braginsky
+  - Alexandra Carstensen
+  - Benjamin deMayo
+  - George Kachergis
+  - Molly Lewis
+  - Bria Long
+  - Kyle Earl MacDonald
+  - Jess Mankewitz
+  - Stephan Meylan
+  - Annissa N Saleh
+  - Rose M. Schneider
+  - Angeline Tsui
+  - Sarp Uner
+  - Tian Linger Xu
+  - Daniel Yurovsky
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-05-12'
+  link: https://doi.org/g577qx
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/4um9k
+  title: A large-scale comparison of cross-situational word learning models
+  authors:
+  - George Kachergis
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-04-29'
+  link: https://doi.org/g577q2
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/yhrb4
+  title: "Toward a \u201CStandard Model\u201D of Early Language Learning"
+  authors:
+  - George Kachergis
+  - Virginia A. Marchman
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2021-03-26'
+  link: https://doi.org/g577q3
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0142723720905920
+  title: What counts as an exemplar model, anyway? A commentary on Ambridge (2020)
+  authors:
+  - Kyle Mahowald
+  - George Kachergis
+  - Michael C. Frank
+  publisher: First Language
+  date: '2020-02-27'
+  link: https://doi.org/gg9vv5
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/z7tdg
+  title: "A longitudinal analysis of the social information in infants\u2019 naturalistic\
+    \ visual experience using automated detections"
+  authors:
+  - Bria Long
+  - George Kachergis
+  - Ketan Agrawal
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2020-06-30'
+  link: https://doi.org/g577q5
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/dmeza
+  title: Understanding the impacts of video-guided activities on parent-child interaction
+  authors:
+  - George Kachergis
+  - Emily Hembacher
+  - Veronica Cristiano
+  - Vivian Zhang
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2020-05-09'
+  link: https://doi.org/g577q6
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/ut86f
+  title: What counts as an exemplar model, anyway? A commentary on Ambridge (2020)
+  authors:
+  - Kyle Mahowald
+  - George Kachergis
+  - Michael C. Frank
+  publisher: Center for Open Science
+  date: '2020-02-27'
+  link: https://doi.org/g577q8
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/q56xs
+  title: Pragmatic communicators can overcome asymmetry by exploiting ambiguity
+  authors:
+  - Mark Blokpoel
+  - Mark Dingemanse
+  - Marieke Woensdregt
+  - George Kachergis
+  - "Sara B\xF6gels"
+  - Ivan Toni
+  - Iris van Rooij
+  publisher: Center for Open Science
+  date: '2019-11-07'
+  link: https://doi.org/g577q9
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/jqwr5
+  title: "Consistency and variability between cultures during toddlers\u2019 naturalistic\
+    \ play"
+  authors:
+  - Bria Long
+  - Patrick Wong
+  - Michael C. Frank
+  - Eva Lai
+  - Peggy Chan
+  - George Kachergis
+  publisher: Center for Open Science
+  date: '2019-10-03'
+  link: https://doi.org/g577rc
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCDS.2017.2735540
+  title: Observing and Modeling Developing Knowledge and Uncertainty During Cross-Situational
+    Word Learning
+  authors:
+  - George Kachergis
+  - Chen Yu
+  publisher: IEEE Transactions on Cognitive and Developmental Systems
+  date: '2018-06-01'
+  link: https://doi.org/grfm2w
+  orcid: 0000-0003-4153-4167
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/7esv8
+  title: Desirable difficulties during the development of active inquiry skills
+  authors:
+  - George Kachergis
+  - Marjorie Rhodes
+  - Todd Matthew Gureckis
+  publisher: Center for Open Science
+  date: '2018-04-10'
+  link: https://doi.org/g577rf
+  orcid: 0000-0003-4153-4167
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +371,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +387,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
