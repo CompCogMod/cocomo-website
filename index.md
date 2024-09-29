@@ -1,7 +1,7 @@
 ---
 ---
 
-# CompCogModDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Our lab investigate how cognitive processes such as memory, learning, and decision-making develop and operate, with a focus on the domains of language and concepts. We leverage machine learning methods and cognitive models in order to understand how people actively adapt their behavior to navigate a changing environment.
 
 
 
@@ -11,7 +11,9 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research explores the mechanisms of cognition through the lens of computational models and statistical methods. 
+One current focus of the lab is to use Bayesian psychometric models as a means to build testable, extensible theories of early language development, combining large datasets on children's early learning environment (e.g., video and audio from head-mounted cameras), tested on databases of early productive vocabulary.
+
 
 {%
   include button.html
@@ -26,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/standard_model_overview.png"
   link="research"
   title="Our Research"
   text=text
@@ -34,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Bakeoff description?
 
 {%
   include button.html
@@ -49,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bakeoff.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Something about team?
 
 {%
   include button.html
@@ -74,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/contextual_diversity.png"
   link="team"
   title="Our Team"
   text=text
