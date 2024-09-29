@@ -1,7 +1,7 @@
 ---
 name: Miko
 image: images/miko_traveler.jpg
-role: phd
+role: mascot
 description: Conference Ambassador
 aliases:
   - Meekster
