@@ -1,47 +1,30 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+
+- title: XSLmodels (coming soon!)
+  subtitle: R package with cross-situational word learning models and datasets
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/bakeoff.jpg
+  link: https://github.com/langcog/xsl-bakeoff/
+  description: This R package features data from over 1,000 participants, fitted by a dozen cognitive process models of cross-situational word learning. Includes documentation of how to define your own models and datasets.
+  repo: langcog/xsl-bakeoff
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Psychometrics Workshop (CogSci 2024)
+  subtitle: Using Psychometrics to Improve Cognitive Models–and Theory
+  image: images/psychometrics-workshop.jpeg
+  link: https://psychometrics-workshop.github.io/
+  description: The field of psychometrics has undergone substantial evolution over the past several decades, both in terms of advances in methodology and improved software and hardware for deploying new methods. Despite these strides, many of these developments have not been integrated into the broader field of psychology – this workshop aims to help change that
+  repo: kachergis/psychometrics-workshop
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Standard Model of Early Word Learning
+  subtitle: This R-based Shiny app simulates the early word learning of 100 children. Simulate interventions by adjusting aspects of the input, and see the effects of processing speed facilitating acquisition. 
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://kachergis.shinyapps.io/standard-model/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
