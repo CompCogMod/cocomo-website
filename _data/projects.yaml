@@ -7,6 +7,7 @@
   description: This R package features data from over 1,000 participants, fitted by a dozen cognitive process models of cross-situational word learning. Includes documentation of how to define your own models and datasets.
   repo: langcog/xsl-bakeoff
   tags:
+    - software
     - resource
 
 - title: Psychometrics Workshop (CogSci 2024)
@@ -27,4 +28,5 @@
   repo: greenelab/lab-website-template
   tags:
     - software
+    - publication
 

@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Email is best!
 
 {%
   include button.html
@@ -19,15 +17,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Faculty%2FAdministration+Building/@33.608785,-112.1619686,16z/"
 %}
 
 {% include section.html %}
@@ -36,8 +28,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/logo.jpg"
+  caption="Lab Logo - Concept 1"
 %}
 
 {% endcapture %}
@@ -46,8 +38,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/logo2.jpg"
+  caption="Lab Logo - Concept 2"
 %}
 
 {% endcapture %}
