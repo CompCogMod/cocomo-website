@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Computational Cognitive Science Lab
-subtitle: 
-description: 
+title: Computational Cognitive Models Lab
+subtitle: CoCoMo Lab
+description: We build formal, testable theories (i.e. models) to understand cognition.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
