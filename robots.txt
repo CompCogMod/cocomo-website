@@ -1,1 +1,1 @@
-Sitemap: https://compcogmod.github.io/cocomo-website/sitemap.xml
+Sitemap: https://compcogmod.github.io/sitemap.xml
